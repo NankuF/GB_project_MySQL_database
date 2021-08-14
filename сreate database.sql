@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS shopLeg;
+CREATE DATABASE shopLeg;
+USE shopLeg;
