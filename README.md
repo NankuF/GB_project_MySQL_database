@@ -1,9 +1,7 @@
 # GB_project_MySQL_database
-Create Mysql database
+# Create Mysql database
 
-ERD: https://github.com/NankuF/GB_project_MySQL_database/blob/main/ERD.png
-
-Требования к курсовому проекту:
+### Требования к курсовому проекту:
 1.	Составить общее текстовое описание БД и решаемых ею задач;
 2.	минимальное количество таблиц - 10;
 3.	скрипты создания структуры БД (с первичными ключами, индексами, внешними ключами);
@@ -13,11 +11,15 @@ ERD: https://github.com/NankuF/GB_project_MySQL_database/blob/main/ERD.png
 7.	представления (минимум 2);
 8.	хранимые процедуры / триггеры;
 
-FILES:
-shoplegrand – скрипт с DDL
-fulldb-19-01-2021-19-41-beta – скрипт DML
-JOINS – скрипт с joins
-Triggers – скрипт с простым триггером, cоздавший log таблицу и сам скрипт.
-VIEWS – скрипт представления, создающий Paiduser
-ERD.png – ЕРдиаграмма проекта
-сreate database – скрипт создания БД. Название shopLeg нигде в скрипте не фигурирует, поэтому ее можно назвать как угодно.
+### FILES:
+* shoplegrand – скрипт с DDL
+* fulldb-19-01-2021-19-41-beta – скрипт DML
+* JOINS – скрипт с joins
+* Triggers – скрипт с простым триггером, cоздавший log таблицу и сам скрипт.
+* VIEWS – скрипт представления, создающий Paiduser
+* ERD.png – ЕРдиаграмма проекта
+* сreate database – скрипт создания БД. Название shopLeg нигде в скрипте не фигурирует, поэтому ее можно назвать как угодно.
+
+![Image of ERD](https://github.com/NankuF/GB_project_MySQL_database/blob/main/ERD.png)
+
+
